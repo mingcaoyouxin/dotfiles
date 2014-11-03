@@ -51,7 +51,7 @@ source $ZSH/oh-my-zsh.sh
 
 # User configuration
 
-export PATH="/opt/local/bin:/Users/Junevimer/.rvm/gems/ruby-2.1.2/bin:/Users/Junevimer/.rvm/gems/ruby-2.1.2@global/bin:/Users/Junevimer/.rvm/rubies/ruby-2.1.2/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Junevimer/.rvm/bin"
+# export PATH="/opt/local/bin:/Users/Junevimer/.rvm/gems/ruby-2.1.2/bin:/Users/Junevimer/.rvm/gems/ruby-2.1.2@global/bin:/Users/Junevimer/.rvm/rubies/ruby-2.1.2/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/bin:/opt/X11/bin:/Users/Junevimer/.rvm/bin"
 # export MANPATH="/usr/local/man:$MANPATH"
 
 # You may need to manually set your language environment
@@ -84,8 +84,8 @@ alias ls='ls -G'
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 # 
 
-alias vi='/Applications/MacVim.app/Contents/MacOS/Vim'
-alias vim='mvim'
+# alias vi='/Applications/MacVim.app/Contents/MacOS/Vim'
+# alias vim='mvim'
 alias cls='clear'
 alias ll='ls -l'
 alias la='ls -a'
